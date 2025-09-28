@@ -54,8 +54,8 @@ To predict student academic performance and identify factors influencing success
   ![Actual vs Predicted](Results/figures/Actual_vs_Predicted_Final_Grades.png)  
   ![Confusion Matrix](Results/figures/Confusion_matrix.png)  
   ![Grades by Gender](Results/figures/Final_grades_by_gender.png)  
-  ![Grades by School Support](Results/figures/Mean_Final_Grades_by_School_Support.png)  
-  ![Probability of High Grades](Results/figures/Probability_of_High_Grades_with_Study_Time_gt2.png)  
+![Grades by School Support](Results/figures/Mean_Final_Grades_by_School_Support.png)  
+![Probability of High Grades](Results/figures/Probability_of_High_Grades_with_Study_Time_gt2.png)
 
 - **Key Insight**:  
   - Students with **more study time and fewer failures** perform better.  
