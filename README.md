@@ -50,12 +50,13 @@ To predict student academic performance and identify factors influencing success
   - Failures strongly **negatively correlated** with G3 (r = -0.36).  
   - Study time weakly **positively correlated** (r ≈ 0.10).  
 
-- **Visuals**  
-  ![Actual vs Predicted](Results/figures/Actual_vs_Predicted_Final_Grades.png)  
-  ![Confusion Matrix](Results/figures/Confusion_matrix.png)  
-  ![Grades by Gender](Results/figures/Final_Grades_by_Gender.png)  
-  ![Grades by School Support](Results/figures/Mean_Final_Grades_by_School_Support.png)  
-  ![Probability of High Grades](Results/figures/Probability_of_High_Grades_with_Study_Time.png)  
+- **Visuals**
+
+![Actual vs Predicted](Results/figures/Actual_vs_Predicted_Final_Grades.png)  
+![Confusion Matrix](Results/figures/Confusion_matrix.png)  
+![Grades by Gender](Results/figures/Final_Grades_by_Gender.png)  
+![Grades by School Support](Results/figures/Mean_Final_Grades_by_School_Support.png)  
+![Probability of High Grades](Results/figures/Probability_of_High_Grades_with_Study_Time.png)  
 
 - **Key Insight**:  
   - Students with **more study time and fewer failures** perform better.  
