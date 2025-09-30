@@ -13,7 +13,7 @@ The project applies fundamental mathematics of AI to the **UCI Student Performan
 
 ---
 
-##  Objective
+## 🎯 Objective
 To predict student academic performance and identify factors influencing success using:
 - Probability & Statistics
 - Linear Algebra (SVD)
@@ -22,7 +22,7 @@ To predict student academic performance and identify factors influencing success
 
 ---
 
-## Methods
+## 🔑 Methods
 1. **Data Preparation**
    - Parsed dataset, handled categorical encoding, ensured clean structure (395×32).  
 
@@ -46,36 +46,33 @@ To predict student academic performance and identify factors influencing success
 
 ## 📈 Results & Visualisations
 
-- **Correlation Heatmap**
+- **Correlation Findings**  
   - Failures strongly **negatively correlated** with G3 (r = -0.36).  
   - Study time weakly **positively correlated** (r ≈ 0.10).  
 
 - **Visuals**  
-![Actual vs Predicted]
-(Results/figures/Actual_vs_Predicted_Final_Grades.png) 
-![Confusion Matrix]
-(Results/figures/Confusion_matrix.png)  
-![Grades by Gender]
-(Results/figures/Final_grades_by_gender.png)  
-![Grades by School Support](Results/figures/Mean_Final_Grades_by_School_Support.png)  
-![Probability of High Grades](Results/figures/Probability_of_High_Grades_with_Study_Time.png)  
-
+  ![Actual vs Predicted](Results/figures/Actual_vs_Predicted_Final_Grades.png)  
+  ![Confusion Matrix](Results/figures/Confusion_matrix.png)  
+  ![Grades by Gender](Results/figures/Final_Grades_by_Gender.png)  
+  ![Grades by School Support](Results/figures/Mean_Final_Grades_by_School_Support.png)  
+  ![Probability of High Grades](Results/figures/Probability_of_High_Grades_with_Study_Time.png)  
 
 - **Key Insight**:  
   - Students with **more study time and fewer failures** perform better.  
-  - Probability of getting **G3 > 15** if study time >2 hrs/week ≈ **15.2%**.  
+  - Probability of achieving **G3 > 15** if study time >2 hrs/week ≈ **15.2%**.  
   - MDP optimal policy suggests **“Study More”** as the best long-term action.  
 
 ---
 
 ## 📂 Repository Structure
-Foundation_Of_AI_Project/
+
 │
 ├── notebooks/ # Jupyter Notebook with full analysis
 ├── report/ # Coursework report (PDF)
 ├── Results/figures/ # Plots and visualisations
 ├── requirements.txt # Dependencies
 └── README.md # Project overview
+
 
 ---
 
@@ -96,3 +93,6 @@ Foundation_Of_AI_Project/
 3. Run the notebook:
    jupyter notebook notebooks/student_performance_prediction.ipynb
 
+References
+GeeksforGeeks. Hyperparameter Tuning.
+ECS8050 Lecture Notes, QUB.
