@@ -67,9 +67,13 @@ To predict student academic performance and identify factors influencing success
 
 ## 📂 Repository Structure
 notebooks/ # Jupyter Notebook with full analysis
+
 report/ # Coursework report (PDF)
+
 Results/figures/ # Plots and visualisations
+
 requirements.txt # Dependencies
+
 README.md # Project overview
 
 
