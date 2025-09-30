@@ -6,7 +6,7 @@ The project applies fundamental mathematics of AI to the **UCI Student Performan
 ---
 
 ## 📊 Dataset
-- Source: [UCI Repository – Student Performance](https://archive.ics.uci.edu/dataset/320/student+performance)  
+- Source: [UCI Repository – Student Performance]
 - Records: 395 students  
 - Features: demographics, parental background, study habits, behaviours, and three grade scores (G1, G2, G3).  
 - Target: **Final Grade (G3)**  
