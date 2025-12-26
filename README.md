@@ -1,4 +1,4 @@
-# Foundations of AI Project – Student Performance Prediction
+# Student Performance Prediction
 
 This repository contains my coursework for **ECS8050 – Foundations of AI** at Queen’s University Belfast.  
 The project applies fundamental mathematics of AI to the **UCI Student Performance dataset** (Mathematics track).
